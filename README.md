@@ -29,10 +29,10 @@ cd coding-challenge
 3. Install dependencies:
 npm install
 
-Run The Application
+Run The Application:
 node index.js
 
 
 
-Testing
+Testing:
 npx jest
